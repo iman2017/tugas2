@@ -21,4 +21,4 @@ public class KasihNilai {
 //hasilnya : 
 //C:\java KasihNilai A
 //Excellent
-//
+//mengisi nilai args[0] dengan A
