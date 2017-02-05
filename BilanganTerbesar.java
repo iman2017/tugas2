@@ -13,3 +13,8 @@ public class BilanganTerbesar {
 	System.out.print("Nilai Terbesar adalah :"+x2);
 	}
 }
+
+//mencari nilai terbesar dalam suatu tabel data
+//menggunakan fungsi if segaris
+//sintax nya (yg diuji) (kondisi pengujian) ? (True) : (False);
+//by Iman M - 1641808
