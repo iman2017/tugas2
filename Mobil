@@ -1,0 +1,17 @@
+public class Mobil {
+	private int kecMax;
+	private int percepatan;
+	private int kecActual;
+	
+	public Mobil() {
+		kecMax = 180;
+		percepatan = 25;
+		kecActual = 10;
+	}
+
+	public Mobil(int kecMax, int percepatan, int kecActual) {
+		this.kecMax = kecMax;
+		this,percepatan = percepatan;
+		this.kecActual = kecActual;
+	}
+}

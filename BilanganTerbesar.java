@@ -1,8 +1,8 @@
 public class BilanganTerbesar {
 	public static void main(String [] args) {
 	int A = 23;
-	int B = 15;
-	int C = 8;
+	int B = 45;
+	int C = 38;
 	
 	int x1 = A > B? A : B;
 	int x2 = C > x1? C : x1;
@@ -18,3 +18,4 @@ public class BilanganTerbesar {
 //menggunakan fungsi if segaris
 //sintax nya (yg diuji) (kondisi pengujian) ? (True) : (False);
 //by Iman M - 1641808
+
